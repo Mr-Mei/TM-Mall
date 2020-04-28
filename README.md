@@ -1,7 +1,7 @@
 # 天猫商城项目
 
 ## 效果图：
-![image]()
+![image](https://github.com/Mr-Mei/TM-Mall/blob/master/project.gif)
 
 ## 技术栈：html+css+js
 
